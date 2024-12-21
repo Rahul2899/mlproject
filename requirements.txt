@@ -1,4 +1,13 @@
 pandas
 numpy
 seaborn
--e .
+matplotlib
+scikit-learn
+catboost
+xgboost
+
+
+#-e .
+
+
+#pythonv version is = 3.9 so you should use 3.13
