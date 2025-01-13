@@ -1,7 +1,7 @@
 
 # Machine Learning Project
 
-This repository contains an end-to-end machine learning project demonstrating data preprocessing, model training, and deployment using a web application.
+This repository contains an end-to-end Linear Regression project demonstrating data preprocessing, model training, and deployment using a web application.
 
 ## Features
 
